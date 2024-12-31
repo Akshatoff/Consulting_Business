@@ -13,7 +13,7 @@ export const Testimonials = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-            "The consulting team provided <Mark>invaluable insights and solutions</Mark> tailored to our needs. Their expertise helped us streamline operations, overcome challenges, and achieve measurable growth. Highly recommended for any business looking to unlock its full potential!"
+            &quot;The consulting team provided <Mark>invaluable insights and solutions</Mark> tailored to our needs. Their expertise helped us streamline operations, overcome challenges, and achieve measurable growth. Highly recommended for any business looking to unlock its full potential!&quot;
             </p>
 
             <Avatar
@@ -26,7 +26,7 @@ export const Testimonials = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-            "Working with the consulting team was a <Mark>game-changer for our business.</Mark> Their strategic guidance and innovative solutions not only improved our efficiency but also positioned us for long-term success. Truly exceptional service!"
+            &quot;Working with the consulting team was a <Mark>game-changer for our business.</Mark> Their strategic guidance and innovative solutions not only improved our efficiency but also positioned us for long-term success. Truly exceptional service!&quot;
             </p>
 
             <Avatar
@@ -39,7 +39,7 @@ export const Testimonials = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              T"The consulting services exceeded our expectations. Their deep expertise and customized approach helped us tackle complex challenges and drive significant growth.<Mark> A trusted partner for any business!"</Mark>
+            &quot;The consulting services exceeded our expectations. Their deep expertise and customized approach helped us tackle complex challenges and drive significant growth.<Mark> A trusted partner for any business!&quot;</Mark>
             </p>
 
             <Avatar
